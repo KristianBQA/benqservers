@@ -4,11 +4,11 @@ repo: benqservers # The name of this repository
 user-agent: KristianBQA 
 sites:
   - name: BenQ AMS
-    url: https://www.ams.benq.com/
+    url: https://ams.benq.com/#/
   - name: BenQ IAM
     url: https://iam.benq.com/
   - name: BenQ DMS
-    url: https://www.dms.benq.com/
+    url: https://dms.benq.com/#/
   - name: BenQ X-Sign Broadcast
     url: https://x-signbroadcast.benq.com/
   - name: BenQ Service Portal
