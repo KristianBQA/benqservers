@@ -6,12 +6,13 @@ sites:
   - name: BenQ AMS
     url: https://www.ams.benq.com/
   - name: BenQ IAM
-    url: https://www.IAM.benq.com/
+    url: https://iam.benq.com/
   - name: BenQ DMS
-    url: https://www.DMS.benq.com/
+    url: https://www.dms.benq.com/
   - name: BenQ X-Sign Broadcast
     url: https://x-signbroadcast.benq.com/
-
+  - name: BenQ Service Portal
+    url: https://service-portal.benq.com/login
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
