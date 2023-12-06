@@ -9,6 +9,7 @@ sites:
     url: https://iam.benq.com/
   - name: BenQ DMS
     url: https://dms.benq.com/#/
+    icon: https://dms.benq.com/client/dms_logo.svg
   - name: BenQ X-Sign Broadcast
     url: https://x-signbroadcast.benq.com/
   - name: BenQ Service Portal
