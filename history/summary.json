@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 517,
-    "timeDay": 580,
-    "timeWeek": 512,
-    "timeMonth": 537,
+    "timeDay": 500,
+    "timeWeek": 528,
+    "timeMonth": 533,
     "timeYear": 517,
     "dailyMinutesDown": {
       "2023-11-06": 30
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 669,
-    "timeDay": 691,
-    "timeWeek": 664,
-    "timeMonth": 675,
-    "timeYear": 669,
+    "time": 666,
+    "timeDay": 494,
+    "timeWeek": 648,
+    "timeMonth": 668,
+    "timeYear": 666,
     "dailyMinutesDown": {
       "2023-11-06": 22
     }
@@ -46,15 +46,15 @@
     "slug": "ben-q-dms",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.17%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.88%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.96%",
-    "time": 486,
-    "timeDay": 415,
-    "timeWeek": 466,
-    "timeMonth": 499,
-    "timeYear": 486,
+    "time": 484,
+    "timeDay": 383,
+    "timeWeek": 461,
+    "timeMonth": 494,
+    "timeYear": 484,
     "dailyMinutesDown": {
       "2024-01-12": 12,
       "2023-11-06": 30
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 625,
-    "timeDay": 683,
-    "timeWeek": 633,
-    "timeMonth": 636,
-    "timeYear": 625,
+    "time": 623,
+    "timeDay": 493,
+    "timeWeek": 621,
+    "timeMonth": 631,
+    "timeYear": 623,
     "dailyMinutesDown": {
       "2023-11-06": 6
     }
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 650,
-    "timeDay": 713,
-    "timeWeek": 608,
-    "timeMonth": 688,
-    "timeYear": 650,
+    "time": 647,
+    "timeDay": 425,
+    "timeWeek": 601,
+    "timeMonth": 679,
+    "timeYear": 647,
     "dailyMinutesDown": {}
   }
 ]
